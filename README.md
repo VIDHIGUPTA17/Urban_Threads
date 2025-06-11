@@ -5,6 +5,8 @@ Users upload an image, and the app recommends 5 visually similar items.
 
 ---
 
+
+
 ## 📋 Table of Contents
 
 - [About](#about)
@@ -25,6 +27,9 @@ This project demonstrates an image-based recommendation system built using ResNe
 Perfect for anyone learning about computer vision, deep learning, and app deployment with Streamlit.
 
 ---
+
+![App Screenshot](Screenshot 2025-06-11 134046.png)
+
 
 ## ⚙️ Prerequisites
 
