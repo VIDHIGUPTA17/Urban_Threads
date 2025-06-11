@@ -28,7 +28,7 @@ Perfect for anyone learning about computer vision, deep learning, and app deploy
 
 ---
 
-![App Screenshot](Screenshot 2025-06-11 134046.png)
+![App Screenshot]("Screenshot 2025-06-11 134046.png")
 
 
 ## ⚙️ Prerequisites
