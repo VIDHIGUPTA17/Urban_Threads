@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# IDE folders
+.idea/
+.vscode/
+
+# Large data & model files
+# Ignore large files/folders
+embeddings.pkl
+filenames.pkl
+images/
+uploads/
+.env
+
